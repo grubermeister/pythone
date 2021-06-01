@@ -52,7 +52,7 @@ six==1.10.0
 swiglpk==1.4.4
 Unidecode==0.4.21
 update==0.4.4
-urllib3==1.21.1
+urllib3==1.26.5
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
 Werkzeug==0.12.1
