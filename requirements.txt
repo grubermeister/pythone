@@ -44,7 +44,7 @@ pytest==3.0.7
 python-dateutil==2.6.0
 python-pptx==0.6.5
 pytz==2017.2
-pywin32==223
+pywin32==301
 PyYAML==3.12
 regex==2017.4.29
 requests==2.18.4
